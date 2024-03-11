@@ -4,7 +4,7 @@ testaws
 
 In this tutorial, we're going to create a pipeline that will help us update our static website every time we push to our local repository. This is a good practice of CI/CD, which helps to deploy very quickly.
 
-Step 1
+<h2>Step 1</h2>
 
 In this first step, we need to create an S3 bucket to store our static website (it's just a simple "Hello World" HTML file). To do this, choose the S3 service first.
 
