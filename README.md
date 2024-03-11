@@ -1,8 +1,8 @@
-# CI/CD Amazon Web Services: Create a Pipeline to Deploy Code Automatically After a Push on GitHub
+# CI/CD Amazon Web Services: Create a Pipeline to Deploy Source Code Automatically After a Push on GitHub (AWS CodePipeline)
 
-testaws
 
-In this tutorial, we're going to create a pipeline that will help us update our static website every time we push to our local repository. This is a good practice of CI/CD, which helps to deploy very quickly.
+Hello, i'm Josué TALU, software engineer and member of the first AWS Re/Start cohort - Orange RDC of 2024.
+In this tutorial, we're going to create a pipeline that will help us update our static website every time we push to our local repository. This is a good practice of CI/CD which helps to deploy very quickly.
 
 <h2>Step 1</h2>
 
